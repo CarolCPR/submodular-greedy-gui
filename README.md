@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-Créditos
+## Créditos
 Projeto desenvolvido por Caroline Pacheco da Rosa para a disciplina de Análise de Algoritmos – Mestrado em Computação Aplicada (Unisinos, 2025/1).
 
 ---
