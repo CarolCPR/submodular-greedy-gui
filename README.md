@@ -17,12 +17,14 @@ A aplicação inclui uma interface gráfica em PyQt5, parametrização interativ
 
 ## Estrutura do projeto
 
+```
 src/
 │
 ├── algoritmos/ # Implementações dos algoritmos
 ├── interface/ # Interface gráfica (PyQt5)
 ├── utils/ # Funções auxiliares e geradores de instância
 └── main.py # Ponto de entrada da aplicação
+```
 
 ## Como executar
 
