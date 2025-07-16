@@ -1,0 +1,1 @@
+# Módulo utilitário com funções de apoio (submodularidade, geração de instâncias)
